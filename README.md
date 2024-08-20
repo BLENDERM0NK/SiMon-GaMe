@@ -27,7 +27,7 @@ This project is a simple implementation of the classic Simon Game using HTML, CS
   - JavaScript & jQuery: Logic for handling game functionality, animations, and user interactions.
 
 - Setup
-  - Clone the repository: git clone https://github.com/yourusername/simon-game.git
+  - Clone the repository: git clone https://github.com/BLENDERM0NK/SiMon-GaMe.git
   - Navigate to the project directory: cd simon-game
   - Open index.html in your web browser to start playing the game.
  
